@@ -77,6 +77,7 @@ Cat-Facts-Twitter-Bot/
 ├── config/                   # Configuration files
 │   └── config.py             # Config script
 ├── docs/                     # Documentation
+│   └── README.md             # READMe.md file
 ├── src/                      # Source code
 │   └── gemini.py             # Gemini API script
 │   └── twitter_bot.py        # Twitter API script
